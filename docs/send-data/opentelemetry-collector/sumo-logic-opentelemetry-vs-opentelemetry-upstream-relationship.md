@@ -9,7 +9,7 @@ This document explains the purpose of the Sumo Logic Distribution for OpenTeleme
 
 The Sumo Logic Distribution for OpenTelemetry Collector is the OpenTelemetry Collector with addition of Sumo Logic specific changes. Our aim is to extend and not to replace the OpenTelemetry Collector. Releasing our own distribution allows us to:
 * Include Sumo Logic platform-specific features
-* Provide a easier user experience by having a tigher integration between the collector and SumoLogic SaaS service
+* Provide an easier user experience by having a tighter integration between the collector and SumoLogic SaaS service
 * Provide better customer support
 * Bypass the OpenTelemetry release schedule for critical bug fixes
 * Provide various installation methods
